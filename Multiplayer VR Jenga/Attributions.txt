@@ -1,0 +1,16 @@
+// Each of your teammates must complete the following for themselves.
+
+Team member name: Jacob Klimach
+SCS user id: j2klimac
+Percentage of work done: 50%
+Percentage of mark deserved: 50%
+
+Team member name: Dahee Kim
+SCS user id: d98kim
+Percentage of work done: 50%
+Percentage of mark deserved: 50%
+
+// List any other attributions (code, assets) below:
+High Quality Realistic Wood Textures - Mega Pack by MEZANIX from Unity Asset Store
+https://assetstore.unity.com/packages/2d/textures-materials/wood/high-quality-realistic-wood-textures-mega-pack-75831
+
